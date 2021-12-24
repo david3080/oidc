@@ -1,0 +1,15 @@
+name: oidc
+description: AndroidとiOS対応のネイティブアプリをワンコードで生成し、ホットリロードに対応したFlutterをベースにKeycloadなどのOIDC対応のIdPと連携してログインし、トークンを取得するサンプルアプリです
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  flutter_appauth: ^2.0.0-dev.3
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+flutter:
+  uses-material-design: true
