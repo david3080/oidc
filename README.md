@@ -11,9 +11,9 @@ KeycloadなどのOIDC対応のIdPと連携してログインし、トークン�
 
 ## バージョン
 - Flutter: 2.5
-- Flutter AppAuthプラグイン: 2.0.0-dev.3 (endSessionEndpointが追加された)
+- Flutter AppAuthプラグイン: 2.4.1
 - Android OS: 11
-- iOS: 14
+- iOS: 15.4.1
 - Keycloak: 15
 
 ## Keycloakの設定手順
